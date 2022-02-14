@@ -1,2 +1,7 @@
 # workout-mapp
- Workout Map App created as a project of the JavaScript course of Jonas S.
+
+Workout Map App created as a project of the JavaScript course of Jonas S.
+
+## About the project
+
+The project consist a log of workouts using map api and log them in the browser.
