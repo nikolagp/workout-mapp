@@ -1,20 +1,6 @@
-# workout-mapp
-
-Workout Map App created as a project of the JavaScript course of Jonas S.
-
-## About the project
-
-The project consist a log of workouts using map api and log them in the browser.
-
-## In this project we use:
-
-- Geolocation
-- External Library Leaflet - an open-source JavaScript library
-  for mobile-friendly interactive maps
-
 # Workout Mapp
 
-![Music App Cover](https://github.com/nikolagp/music-app-vue/blob/master/public/assets/img/hauz-music-home.png?raw=true "Music App Cover")
+![Mappty App Cover](https://github.com/nikolagp/workout-mapp/blob/main/mapty.png?raw=true "Mappty App Cover")
 
 Check it out deployed: https://mapty-app-api.netlify.app/ 
 
